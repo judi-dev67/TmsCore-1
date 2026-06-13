@@ -1,0 +1,14 @@
+C:\Users\jjudi\OneDrive\Desktop\TmsCore-1\bin\Debug\net10.0\TmsCore-1.exe
+C:\Users\jjudi\OneDrive\Desktop\TmsCore-1\bin\Debug\net10.0\TmsCore-1.deps.json
+C:\Users\jjudi\OneDrive\Desktop\TmsCore-1\bin\Debug\net10.0\TmsCore-1.runtimeconfig.json
+C:\Users\jjudi\OneDrive\Desktop\TmsCore-1\bin\Debug\net10.0\TmsCore-1.dll
+C:\Users\jjudi\OneDrive\Desktop\TmsCore-1\bin\Debug\net10.0\TmsCore-1.pdb
+C:\Users\jjudi\OneDrive\Desktop\TmsCore-1\obj\Debug\net10.0\TmsCore-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jjudi\OneDrive\Desktop\TmsCore-1\obj\Debug\net10.0\TmsCore-1.AssemblyInfoInputs.cache
+C:\Users\jjudi\OneDrive\Desktop\TmsCore-1\obj\Debug\net10.0\TmsCore-1.AssemblyInfo.cs
+C:\Users\jjudi\OneDrive\Desktop\TmsCore-1\obj\Debug\net10.0\TmsCore-1.csproj.CoreCompileInputs.cache
+C:\Users\jjudi\OneDrive\Desktop\TmsCore-1\obj\Debug\net10.0\TmsCore-1.dll
+C:\Users\jjudi\OneDrive\Desktop\TmsCore-1\obj\Debug\net10.0\refint\TmsCore-1.dll
+C:\Users\jjudi\OneDrive\Desktop\TmsCore-1\obj\Debug\net10.0\TmsCore-1.pdb
+C:\Users\jjudi\OneDrive\Desktop\TmsCore-1\obj\Debug\net10.0\TmsCore-1.genruntimeconfig.cache
+C:\Users\jjudi\OneDrive\Desktop\TmsCore-1\obj\Debug\net10.0\ref\TmsCore-1.dll
